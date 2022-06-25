@@ -1,4 +1,4 @@
-<img alt="Chemistry" src="https://github.com/paulowiz/assets/blob/main/13edb3ccfceecfb23a77f74418232244.gif" align="right" width="30%" height="30%">
+<img alt="Hacking" src="https://github.com/jglovier/gifs/blob/gh-pages/hacking/mr-robot-hacking.gif" align="right" width="50%" height="50%">
 
 ### Hi there 👋
 I'm [Paulo](https://www.linkedin.com/in/paulo-mota-955218a2/), an AI Engineer, passionate about data engineering, 
