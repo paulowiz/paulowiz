@@ -1,13 +1,5 @@
-### Hi there I'm Paulo Mota
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python|Machine learning developer Intern
-- 🌱 I’m currently learning NLP models and statistcs
-- 👯 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with NLP models 
-- 💬 Ask me about Python and Machine Learning 
-- 📫 How to reach me: https://www.linkedin.com/in/paulo-mota-955218a2/
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: I like games, animes and code new things
-<img src='https://github-readme-stats.vercel.app/api?username=paulowiz'>
+### Hi there 👋
+I'm [Paulo](https://www.linkedin.com/in/paulo-mota-955218a2/), a AI Engineer, passionate about Data Engineering, Data Science, and digital products, I like to understand the business and make experiments with data.
+You can shoot me an email at phmota@outlook.com.br
